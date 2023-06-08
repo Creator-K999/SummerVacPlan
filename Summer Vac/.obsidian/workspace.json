@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "b49b7d0d1b93bd1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a53b0aac7a2eab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4212f42e3f0b6f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan/Courses Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0528426e35ed79d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4757f38e74701800",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19f41fbde3f4b3d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdf5b3998c7641ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27d195079853713a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2fc4ec710937a13",
+    "type": "split",
+    "children": [
+      {
+        "id": "b642978ffc1bcbe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "967ea29269ccbaf3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plan/Courses Plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a21939bad6f33cb6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plan/Courses Plan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b181ff76c4470b5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "abd2ea76d0f54642",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Plan/Courses Plan.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e4212f42e3f0b6f1",
+  "lastOpenFiles": [
+    "Plan/Courses Plan.md",
+    "Plan"
+  ]
+}
