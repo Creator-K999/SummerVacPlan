@@ -1,10 +1,10 @@
-Planned courses In order:
+- Planned courses In order:
 
 	1. Summer Vac (2023)
 
-		1. CompTIA A+ (Core-1) - 3 weeks
-		2. CompTIA A+ (Core-2) - 1 month
-		3. CompTIA Net+ - 1 month
+		1. [[CompTIA A+ (Core-1)]] - 3 weeks
+		1. CompTIA A+ (Core-2) - 1 month
+		2. CompTIA Net+ - 1 month
 
 	2. Fall Semester (2023/2024)
 
